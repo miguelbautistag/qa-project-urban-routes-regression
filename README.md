@@ -4,7 +4,9 @@
 
 - **Project Type:** QA Bootcamp Project (TripleTen LatAm)
 - **Execution Window:** January 2025
-- **Status:** Completed
+- **Status:** Completed and Approved
+
+---
 
 ## 📌 Project Overview
 
